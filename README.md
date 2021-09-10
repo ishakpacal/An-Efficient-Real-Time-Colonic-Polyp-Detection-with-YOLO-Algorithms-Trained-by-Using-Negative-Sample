@@ -4,4 +4,4 @@ This is a real time polyp detection work based on YOLOv3 and YOLOv4 trained on l
 
 Repo will be updated soon. 
 
-Source codes, models and descriptions will be added after publication of the paper.
+Source codes, models and descriptions will be added after acceptance of the paper.
